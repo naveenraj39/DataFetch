@@ -8,8 +8,8 @@ public class DBConnection {
 	
 private static  String url = "jdbc:postgresql://localhost:4200/tmx_qa";
 
-private static  String user ="naveenraj";
-private static  String pass ="bm8va40k5VCu"; 
+private static  String user ="";
+private static  String pass =""; 
 
 
 
